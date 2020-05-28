@@ -1,0 +1,49 @@
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.exe
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.pdb
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csprojResolveAssemblyReference.cache
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Form1.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Properties.Resources.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csproj.GenerateResource.Cache
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.exe
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.pdb
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_ekle.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_guncelleme.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_silme.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_listesi.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satis_yap.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.stok_bilgisi.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satilan_urunler.resources
+F:\Otomasyon Programları\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.hakkimizda.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.exe
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.pdb
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Form1.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.hakkimizda.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Properties.Resources.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satilan_urunler.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satis_yap.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.stok_bilgisi.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_ekle.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_listesi.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_silme.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_guncelleme.resources
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.exe
+C:\Users\Mert\Desktop\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.pdb
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.exe
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\bin\Debug\yapi_market_programi.pdb
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csprojAssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Form1.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.hakkimizda.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satilan_urunler.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.satis_yap.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.stok_bilgisi.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_ekle.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_listesi.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_silme.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.urun_guncelleme.resources
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.exe
+C:\Users\semih\OneDrive\Masaüstü\yapi_market_programi\yapi_market_programi\obj\Debug\yapi_market_programi.pdb
